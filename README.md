@@ -1,5 +1,5 @@
 # ECE5831 Project Failed Approach:
-## Using Kaggle Dataset:
+## Using Online Dataset:
 In this approach, I tried to use the kaggle dataset here: 
 I was not satisfied with the results, so I used another approach, which has the code in another [repository](https://github.com/hosman-1/ece5831-project)
 Below I will explain the files in this repository:
