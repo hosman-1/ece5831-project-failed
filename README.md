@@ -1,7 +1,7 @@
 # ECE5831 Project Failed Approach:
 ## Using Kaggle Dataset:
 In this approach, I tried to use the kaggle dataset here: 
-I was not satisfied with the results, so I used another approach, which has the code in another repository:
+I was not satisfied with the results, so I used another approach, which has the code in another [repository](https://github.com/hosman-1/ece5831-project)
 Below I will explain the files in this repository:
 1. __.gitignore:__ This is to ignore videos, images, and numpy arrays, and other files in the dataset I downloaded. This makes my version control in vscode easier to use.
 2. __parsing_processing_training.ipynb:__ In this notebook, I did all the work for parsing the JSON file and pre-processing the data up to saving the numpy arrays.
@@ -13,5 +13,5 @@ Below I will explain the files in this repository:
 8. __test_frames_crop.txt:__ Text files with the frames range to crop for each video used in the test split, since some videos were longer than others. More details in the report.
 
 ## External Links:
-1. __Link to Original Dataset:__
-2. __Link to pre-processed Data in Google Drive:__
+1. __Link to Original Dataset:__ [Link](https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized)
+2. __Link to pre-processed Data in Google Drive:__ [Link](https://drive.google.com/file/d/1JxnHUOwhr1rrWKZDqGeYL2TV-nCPcHYL/view?usp=sharing)
